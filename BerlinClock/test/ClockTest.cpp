@@ -1,5 +1,6 @@
 #include <iostream>
-#include <ubs_BerlinClock/ClockFactory.h>
+
+#include "../../BerlinClock/ClockFactory.h"
 
 
 int main()

@@ -6,7 +6,7 @@
  */
 
 #pragma once
-#include "BerlinClock.h"
+#include "../BerlinClock/BerlinClock.h"
 
 namespace ubs
 {

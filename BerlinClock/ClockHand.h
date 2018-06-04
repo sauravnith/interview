@@ -8,7 +8,7 @@
 #pragma once
 #include<memory>
 
-#include "Lamp.h"
+#include "../BerlinClock/Lamp.h"
 
 namespace ubs
 {

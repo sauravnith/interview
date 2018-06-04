@@ -6,8 +6,8 @@
  */
 
 #pragma once
-#include "ClockHand.h"
 #include <assert.h>
+#include "../BerlinClock/ClockHand.h"
 
 namespace ubs
 {

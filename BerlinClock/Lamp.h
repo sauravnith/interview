@@ -10,7 +10,8 @@
 #include <vector>
 #include <string_view>
 #include <string>
-#include "Types.h"
+
+#include "../BerlinClock/Types.h"
 
 namespace ubs
 {
