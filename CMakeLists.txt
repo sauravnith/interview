@@ -59,5 +59,7 @@ set(EXECUTABLE_OUTPUT_PATH "${PROJECT_BINARY_DIR}/bin")
 
 add_subdirectory(CircularPrinter)
 add_subdirectory(BerlinClock)
+add_subdirectory(Printer)
+add_subdirectory(Formatter)
 
 
